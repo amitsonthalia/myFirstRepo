@@ -1,0 +1,7 @@
+How to Run this testng from commend prompt
+
+Navigate to project folder
+
+mvn - build
+
+mvn - test
