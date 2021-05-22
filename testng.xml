@@ -3,7 +3,20 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="helloworld_amit.ExcelTest"/>
+      <class name="helloworld_amit.NumberTest"/>
+      <class name="helloworld_amit.AnagramTest2"/>
+      <class name="helloworld_amit.AnagramTest"/>
+      <class name="helloworld_amit.ExtractNumFromString"/>
+      <class name="helloworld_amit.Mapfunctions"/>
+      <class name="helloworld_amit.PalindromTestNumber"/>
+      <class name="helloworld_amit.ArmstrongNumber"/>
       <class name="helloworld_amit.TestHelloWorld"/>
+      <class name="helloworld_amit.Sorting"/>
+      <class name="helloworld_amit.FibonacciTest"/>
+      <class name="helloworld_amit.SampleTestNGTest"/>
+      <class name="helloworld_amit.PyramidsNumber"/>
+      <class name="helloworld_amit.PalindromTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
